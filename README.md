@@ -1,6 +1,21 @@
 # ORACLE PL - SQL EXCERCISES
 Practice exercises for pl-sql databases
 
+## TOPICS
+
+* cursors
+* packages
+* functions
+* triggers
+* variables
+* bucles
+* conditionals
+* jobs
+* collections
+* procedures
+* arrays
+* switch
+* and others
 ## COLLECTIONS
 <img src="./public/images/collections-img.png">
 
